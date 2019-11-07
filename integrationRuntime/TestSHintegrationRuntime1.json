@@ -1,0 +1,6 @@
+{
+	"name": "TestSHintegrationRuntime1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
