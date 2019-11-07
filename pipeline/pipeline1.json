@@ -53,6 +53,11 @@
 					"packageLocation": {
 						"type": "SSISDB"
 					},
+					"environmentPath": null,
+					"connectVia": {
+						"referenceName": "TestCDCNintegrationRuntime1",
+						"type": "IntegrationRuntimeReference"
+					},
 					"loggingLevel": "Basic"
 				}
 			}
