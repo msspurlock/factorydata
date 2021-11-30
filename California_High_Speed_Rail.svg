@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64.940002"
+   height="64.942001"
+   viewBox="0 0 64.940006 64.941998"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="california hs rail.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.4261817"
+     inkscape:cx="32.22"
+     inkscape:cy="32.221"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1146.5057,-742.49835)">
+    <g
+       transform="translate(-1489.0357,242.60715)"
+       id="layer1-0"
+       inkscape:label="Layer 1">
+      <switch
+         transform="translate(340.6,499.6832)"
+         id="switch1980">
+        <foreignObject
+           requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+           x="0"
+           y="0"
+           width="1"
+           height="1"
+           id="foreignObject1982">
+          <i:pgfRef
+             xlink:href="#adobe_illustrator_pgf" />
+        </foreignObject>
+        <g
+           i:extraneous="self"
+           id="g1984">
+          <g
+             id="Layer_1"
+             i:layer="yes"
+             i:dimmedPercent="50"
+             i:rgbTrio="#4F008000FFFF">
+            <g
+               id="g1987">
+              <defs
+                 id="defs1989">
+                <path
+                   id="XMLID_1_"
+                   d="M 3.68,32.68 C 3.68,15.712 17.434,1.958 34.4,1.958 51.367,1.958 65.12,15.712 65.12,32.68 65.12,49.646 51.367,63.4 34.4,63.4 17.434,63.399 3.68,49.646 3.68,32.68"
+                   inkscape:connector-curvature="0" />
+              </defs>
+              <use
+                 height="1052.3622"
+                 width="744.09448"
+                 y="0"
+                 x="0"
+                 style="fill:#0b1965"
+                 xlink:href="#XMLID_1_"
+                 id="use1992" />
+              <clipPath
+                 id="XMLID_2_">
+                <use
+                   height="1052.3622"
+                   width="744.09448"
+                   y="0"
+                   x="0"
+                   xlink:href="#XMLID_1_"
+                   id="use1995" />
+              </clipPath>
+              <path
+                 style="fill:#ffe934"
+                 i:knockout="Off"
+                 clip-path="url(#XMLID_2_)"
+                 d="M 22.238,2.075 C 13.455,3.451 7.874,7.321 3.506,15.063 -0.512,22.184 -1.118,28.135 1.383,35.918 l 0.749,0.874 C 11.867,30.545 17.754,27.503 28.482,23.181 40.235,18.444 47.232,16.429 59.703,14.189 54.944,7.306 50.361,3.976 42.344,1.576 34.829,-0.673 29.632,-0.544 22.238,2.075"
+                 id="path1997"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:#ffffff"
+                 i:knockout="Off"
+                 clip-path="url(#XMLID_2_)"
+                 d="m 7.01,47.602 c 6.817,-6.536 15.271,-12.894 24.933,-18.472 9.912,-5.723 19.898,-9.935 29.168,-12.559 0.185,0.308 0.365,0.618 0.541,0.932 C 51.638,21.22 40.784,27.169 30.271,35.091 22.772,40.742 16.189,46.836 10.733,52.988 9.313,51.334 8.062,49.529 7.01,47.602"
+                 id="path1999"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:#ffffff"
+                 i:knockout="Off"
+                 clip-path="url(#XMLID_2_)"
+                 d="m 17.654,58.992 c 5.882,-8.99 14.174,-18.309 24.34,-26.84 6.589,-5.529 13.368,-10.225 20.012,-13.997 0.268,0.507 0.521,1.022 0.76,1.545 C 55.573,24.664 48.272,30.951 41.373,38.35 34.172,46.072 28.21,54.144 23.686,61.976 21.557,61.197 19.537,60.192 17.654,58.992"
+                 id="path2001"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:#ffffff"
+                 i:knockout="Off"
+                 clip-path="url(#XMLID_2_)"
+                 d="m 3.26,34.378 c 8.991,-6.088 20.416,-11.53 33.302,-15.471 7.832,-2.395 15.525,-4.027 22.793,-4.934 0.285,0.379 0.562,0.765 0.83,1.157 -9.157,1.694 -19.09,4.767 -29.099,9.224 C 20.798,28.935 11.651,34.434 4.147,40.284 3.671,38.379 3.369,36.404 3.26,34.378"
+                 id="path2003"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:#ffffff"
+                 i:knockout="Off"
+                 clip-path="url(#XMLID_2_)"
+                 d="m 60.067,14.959 c -7.716,0.452 -16.362,2.97 -24.222,4.853 -7.108,1.703 -7.489,2.87 -14.106,5.173 -1.08,-0.547 -7.448,-2.48 -6.817,-3.721 1.411,-2.78 6.243,-6.842 10.89,-8.865 2.085,-0.908 3.294,-1.218 5.451,-1.547 l 27.316,1.901 c 0.589,0.709 0.962,1.446 1.488,2.206"
+                 id="path2005"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="g2007">
+              <defs
+                 id="defs2009">
+                <path
+                   id="XMLID_3_"
+                   d="m 60.067,14.959 c -7.716,0.452 -16.362,2.97 -24.222,4.853 -7.108,1.703 -7.489,2.87 -14.106,5.173 -1.08,-0.547 -7.448,-2.48 -6.817,-3.721 1.411,-2.78 6.243,-6.842 10.89,-8.865 2.085,-0.908 3.294,-1.218 5.451,-1.547 l 27.316,1.901 c 0.589,0.709 0.962,1.446 1.488,2.206"
+                   inkscape:connector-curvature="0" />
+              </defs>
+              <clipPath
+                 id="XMLID_4_">
+                <use
+                   height="1052.3622"
+                   width="744.09448"
+                   y="0"
+                   x="0"
+                   xlink:href="#XMLID_3_"
+                   id="use2013" />
+              </clipPath>
+              <g
+                 id="g2015">
+                <defs
+                   id="defs2017">
+                  <path
+                     id="XMLID_5_"
+                     d="M 3.68,32.68 C 3.68,15.712 17.434,1.958 34.4,1.958 51.367,1.958 65.12,15.712 65.12,32.68 65.12,49.646 51.367,63.4 34.4,63.4 17.434,63.399 3.68,49.646 3.68,32.68"
+                     inkscape:connector-curvature="0" />
+                </defs>
+                <clipPath
+                   id="XMLID_6_"
+                   clip-path="url(#XMLID_4_)">
+                  <use
+                     height="1052.3622"
+                     width="744.09448"
+                     y="0"
+                     x="0"
+                     xlink:href="#XMLID_5_"
+                     id="use2021" />
+                </clipPath>
+                <path
+                   style="fill:#0b1965"
+                   i:knockout="Off"
+                   clip-path="url(#XMLID_6_)"
+                   d="m 21.64,13.919 c 0,0 2.608,-1.729 4.458,-1.829 1.926,-0.103 4.671,1.476 4.671,1.476 l -0.107,1.466 c 0,0 -2.601,0.367 -4.267,0.455 -1.779,0.094 -2.533,-0.548 -2.533,-0.548 l -2.222,-1.02"
+                   id="path2023"
+                   inkscape:connector-curvature="0" />
+              </g>
+            </g>
+            <g
+               id="g2025">
+              <defs
+                 id="defs2027">
+                <path
+                   id="XMLID_7_"
+                   d="M 3.68,32.68 C 3.68,15.712 17.434,1.958 34.4,1.958 51.367,1.958 65.12,15.712 65.12,32.68 65.12,49.646 51.367,63.4 34.4,63.4 17.434,63.399 3.68,49.646 3.68,32.68"
+                   inkscape:connector-curvature="0" />
+              </defs>
+              <clipPath
+                 id="XMLID_8_">
+                <use
+                   height="1052.3622"
+                   width="744.09448"
+                   y="0"
+                   x="0"
+                   xlink:href="#XMLID_7_"
+                   id="use2031" />
+              </clipPath>
+              <path
+                 style="fill:#0b1965"
+                 i:knockout="Off"
+                 clip-path="url(#XMLID_8_)"
+                 d="m 45.592,14.189 c 5.543,-0.21 8.848,-0.175 14.084,0.171 l 0.057,0.074 c -5.482,-0.013 -8.9,0.17 -14.641,0.754 -4.748,0.483 -7.422,0.87 -12.114,1.748 l 0.374,-1.748 c 4.752,-0.597 7.455,-0.818 12.24,-0.999"
+                 id="path2033"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:#ffe934"
+                 i:knockout="Off"
+                 clip-path="url(#XMLID_8_)"
+                 d="m 17.654,58.992 c 5.882,-8.99 14.174,-18.309 24.34,-26.84 6.589,-5.529 13.368,-10.225 20.012,-13.997 0.268,0.507 0.521,1.022 0.76,1.545 C 55.573,24.664 48.272,30.951 41.373,38.35 34.172,46.072 28.21,54.144 23.686,61.976 21.557,61.197 19.537,60.192 17.654,58.992"
+                 id="path2035"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <path
+               style="fill:none;stroke:#0b1965;stroke-width:3;stroke-miterlimit:3.86400008"
+               i:knockout="Off"
+               stroke-miterlimit="3.864"
+               d="M 3.68,32.68 C 3.68,15.712 17.434,1.958 34.4,1.958 51.367,1.958 65.12,15.712 65.12,32.68 65.12,49.646 51.367,63.4 34.4,63.4 17.434,63.399 3.68,49.646 3.68,32.68 Z"
+               id="path2037"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:#0b1965"
+               i:knockout="Off"
+               d="m 20.989,24.68 c 2.537,-0.003 3.974,-0.086 6.494,-0.374 4.053,-0.465 6.338,-0.938 10.242,-2.124 l -5.372,2.623 c -1.849,0.522 -2.949,0.691 -4.87,0.749 -2.554,0.075 -4.051,-0.125 -6.494,-0.874"
+               id="path2039"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </switch>
+    </g>
+  </g>
+</svg>

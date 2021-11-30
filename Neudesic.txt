@@ -1,0 +1,49 @@
+Zerto
+
+
+
+Om demand education
+AAD and AD integrations
+Azure Monitor and Sentinel
+
+Neudesic
+Newdessick
+Data Platform in One Month
+
+What do they need from us?
+Next steps?
+Proprietary?
+Will we be able to maintain it? 
+Cost? Who pays?
+Environments
+Buy in slide deck
+Pilot
+20K
+Gap coverage
+Deadline - January
+Sell help
+Reduce cost
+
+Nutanix Era
+Owned file system
+Online data dictionaries - how are those implemented?
+Polybase
+
+when was it updated
+database of their own
+relationship matrix
+
+
+Offload IT
+Right fit
+
+
+More CXOne, DB2 connector and also VSTS data.
+Two meetings with Microsoft today
+Finishing touches on Data Catalog
+IVR is proceeding
+Erick and Cherie are helping on taxes and W-2s, so that's slowing us down a bit
+Security enhancements
+
+Microsoft 365 E3 no sec
+MFA added
